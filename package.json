@@ -1,6 +1,6 @@
 {
   "name": "filefog-azure",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "azure provider for filefog",
   "main": "index.js",
   "scripts": {
