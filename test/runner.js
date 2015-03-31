@@ -61,7 +61,9 @@ new TestRunner({
         client_secret : process.env.AZURE_STORAGE_ACCESS_KEY
     },
     credentials: {
-        storage_container : 'randomtestcontainer'
+    },
+    filefog_options: {
+        root_identifier : 'randomtestcontainer'
     }
 
 
